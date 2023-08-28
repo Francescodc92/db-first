@@ -6,10 +6,4 @@
 
 ## Tecnologie
 
-- HTML
-- CSS
-- JAVASCRIPT
-- TAILWIND CSS / SASS 
-- VUE JS
-- AXIOS
-- Git e Github
+- https://app.diagrams.net
